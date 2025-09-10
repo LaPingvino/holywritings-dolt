@@ -1,26 +1,26 @@
 {
-  "dolt_version": "1.32.4",
-  "exported_at": "2025-09-10T01:50:36+01:00",
-  "exported_by": "dolt-user",
+  "dolt_version": "1.59.5",
+  "exported_at": "2025-09-10T02:40:26+01:00",
+  "exported_by": "joop",
   "source_branch": "main",
-  "source_commit": "abc123",
+  "source_commit": "unknown",
   "tables": [
     {
       "table_name": "departments",
-      "chunk_count": 2,
-      "total_rows": 80000,
-      "total_size_bytes": 83886080,
-      "last_modified": "2025-09-10T01:50:36+01:00",
-      "chunking_enabled": true,
+      "chunk_count": 1,
+      "total_rows": 4,
+      "total_size_bytes": 0,
+      "last_modified": "2025-09-10T02:40:26+01:00",
+      "chunking_enabled": false,
       "lfs_enabled": false
     },
     {
       "table_name": "employees",
-      "chunk_count": 2,
-      "total_rows": 80000,
-      "total_size_bytes": 83886080,
-      "last_modified": "2025-09-10T01:50:36+01:00",
-      "chunking_enabled": true,
+      "chunk_count": 1,
+      "total_rows": 5,
+      "total_size_bytes": 0,
+      "last_modified": "2025-09-10T02:40:26+01:00",
+      "chunking_enabled": false,
       "lfs_enabled": false
     }
   ],

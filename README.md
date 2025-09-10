@@ -12,8 +12,8 @@ This repository contains data exported from a Dolt database in CSV format.
 
 | Table | Rows | Size | Chunks |
 |-------|------|------|--------|
-| departments | 80000 | 80.0 MB | 2 |
-| employees | 80000 | 80.0 MB | 2 |
+| departments | 4 | 0 B | 1 |
+| employees | 5 | 0 B | 1 |
 
 ## Usage
 
@@ -29,7 +29,7 @@ dolt git clone <this-repo-url>
 
 ## Generated Information
 
-- Exported at: 2025-09-10 01:50:36 UTC
+- Exported at: 2025-09-10 02:40:26 UTC
 - Total tables: 2
 - Format: CSV with automatic chunking for large tables
 

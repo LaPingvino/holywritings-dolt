@@ -4,24 +4,15 @@
   "max_chunk_size": 52428800,
   "chunks": [
     {
-      "file_name": "departments_000001.csv",
-      "row_count": 50000,
-      "size_bytes": 52428800,
+      "file_name": "departments.csv",
+      "row_count": 4,
+      "size_bytes": 0,
       "row_range": [
-        1,
-        50000
-      ]
-    },
-    {
-      "file_name": "departments_000002.csv",
-      "row_count": 30000,
-      "size_bytes": 31457280,
-      "row_range": [
-        50001,
-        80000
+        0,
+        0
       ]
     }
   ],
-  "schema": "",
-  "created_at": "2025-09-10T01:50:36.396454525+01:00"
+  "schema": "CREATE TABLE `departments` (\n  `id` int NOT NULL,\n  `name` varchar(50),\n  `budget` int,\n  `manager` varchar(100),\n  PRIMARY KEY (`id`)\n);",
+  "created_at": "2025-09-10T02:40:26.923243921+01:00"
 }
