@@ -1,0 +1,2 @@
+-- Database schema exported from Dolt
+-- TODO: Generate actual DDL from Dolt tables
