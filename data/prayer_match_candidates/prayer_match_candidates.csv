@@ -1,1 +1,5 @@
 id,version_id,proposed_name,proposed_phelps,language,text_length,reference_length,length_ratio,confidence_score,validation_status,validation_notes,created_date
+1,6129de72-50e9-482b-aab2-20b59c090c32,"O God, guide me",BH03470,shs,258,214,1.21,0.90,approved,Pattern match with length 258 vs reference avg 214,2025-07-06 22:07:56
+2,f050599c-f67e-469b-a323-bdc85f8e7d31,"O God, guide me",BH03470,ch,260,214,1.22,0.90,approved,Pattern match with length 260 vs reference avg 214,2025-07-06 22:07:56
+3,8bdb77a2-47f2-48d9-b3dc-3f048c68b1bc,Blessed is the Spot,BH11205,en,264,577,0.46,0.90,approved,Pattern match with length 264 vs reference avg 577,2025-07-06 22:08:28
+4,f704b94b-e342-45d9-a804-387fd818778b,Blessed is the Spot,BH11205,cy,491,577,0.85,0.90,approved,Pattern match with length 491 vs reference avg 577,2025-07-06 22:08:28

@@ -1,6 +1,6 @@
 {
   "dolt_version": "1.59.5",
-  "exported_at": "2025-09-10T02:43:59+01:00",
+  "exported_at": "2025-09-10T03:43:45+01:00",
   "exported_by": "joop",
   "source_branch": "main",
   "source_commit": "unknown",
@@ -9,8 +9,8 @@
       "table_name": "dolt_query_catalog",
       "chunk_count": 1,
       "total_rows": 0,
-      "total_size_bytes": 0,
-      "last_modified": "2025-09-10T02:43:59+01:00",
+      "total_size_bytes": 40,
+      "last_modified": "2025-09-10T03:43:44+01:00",
       "chunking_enabled": false,
       "lfs_enabled": false
     },
@@ -18,8 +18,8 @@
       "table_name": "languages",
       "chunk_count": 1,
       "total_rows": 120,
-      "total_size_bytes": 0,
-      "last_modified": "2025-09-10T02:43:59+01:00",
+      "total_size_bytes": 2027,
+      "last_modified": "2025-09-10T03:43:44+01:00",
       "chunking_enabled": false,
       "lfs_enabled": false
     },
@@ -27,8 +27,8 @@
       "table_name": "prayer_heuristics",
       "chunk_count": 1,
       "total_rows": 33,
-      "total_size_bytes": 0,
-      "last_modified": "2025-09-10T02:43:59+01:00",
+      "total_size_bytes": 4488,
+      "last_modified": "2025-09-10T03:43:44+01:00",
       "chunking_enabled": false,
       "lfs_enabled": false
     },
@@ -36,8 +36,8 @@
       "table_name": "prayer_match_candidates",
       "chunk_count": 1,
       "total_rows": 4,
-      "total_size_bytes": 0,
-      "last_modified": "2025-09-10T02:43:59+01:00",
+      "total_size_bytes": 829,
+      "last_modified": "2025-09-10T03:43:44+01:00",
       "chunking_enabled": false,
       "lfs_enabled": false
     },
@@ -45,8 +45,8 @@
       "table_name": "writings",
       "chunk_count": 1,
       "total_rows": 9000,
-      "total_size_bytes": 0,
-      "last_modified": "2025-09-10T02:43:59+01:00",
+      "total_size_bytes": 15371748,
+      "last_modified": "2025-09-10T03:43:45+01:00",
       "chunking_enabled": false,
       "lfs_enabled": false
     }

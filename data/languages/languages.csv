@@ -1,1 +1,121 @@
 langcode,inlang,name
+af,en,Afrikaans
+am,en,Amharic
+ar,en,Arabic
+ar-translit,en,Arabic (Latin)
+az,en,Azerbaijani
+be,en,Belarusian
+bg,en,Bulgarian
+bi,en,Bislama
+bla,bla,Siksika
+bla,en,Blackfoot
+bn,en,Bengali
+bs,en,Bosnian
+ca,en,Catalan
+ch,en,Chamorro
+chn,chn,Chinuk Wawa
+chn,en,Chinook Jargon
+chr,en,Cherokee
+cnr,en,Montenegrin
+co,en,Corsican
+cr,cr,nēhiyawēwin
+cr,en,Cree
+cs,en,Czech
+cy,en,Welsh
+da,en,Danish
+de,en,German
+el,en,Greek
+en,en,English
+eo,en,Esperanto
+es,en,Spanish
+et,en,Estonian
+eu,en,Basque
+fa,en,Persian
+fa-translit,en,Persian (Latin)
+fi,en,Finnish
+fj,en,Fijian
+fo,en,Faroese
+fr,en,French
+fy,en,Western Frisian
+ga,en,Irish
+gil,en,Gilbertese
+gwi,en,Gwich'in
+gwi,gwi,Gwich'in
+hai,en,Haida
+hai,hai,X̱aad kíl
+haw,en,Hawaiian
+hi,en,Hindi
+hr,en,Croatian
+ht,en,Haitian Creole
+hu,en,Hungarian
+hur,en,Halkomelem
+hur,hur,Halq̓eméylem
+hy,en,Armenian
+hz,en,Herero
+id,en,Indonesian
+ik,en,Inupiaq
+is,en,Icelandic
+it,en,Italian
+ja,en,Japanese
+kiw,en,Kiwai
+kiw,kiw,Kiwai
+kl,en,Kalaallisut
+km,en,Central Khmer
+kn,en,Kannada
+ko,en,Korean
+ky,en,Kirghiz
+lb,en,Luxembourgish
+lg,en,Ganda
+lkt,en,Lakota
+lkt,lkt,Lakȟótiyapi
+lt,en,Lithuanian
+lut,en,Lushootseed
+lut,lut,Lushootseed
+lv,en,Latvian
+meu,en,Motu
+meu,meu,Motu
+mg,en,Malagasy
+mh,en,Marshallese
+mi,en,Maori
+mic,en,Mikmaq
+mic,mic,Míkmawi
+ml,en,Malayalam
+moh,en,Mohawk
+moh,moh,Kanienʼkehá꞉ka
+mt,en,Maltese
+nai-CA,en,Native American (Canada)
+nai-US,en,Native American (United States)
+ne,en,Nepali
+nl,en,Dutch
+no,en,Norwegian
+nv,en,Navajo
+nv,nv,Diné bizaad
+oj,en,Ojibwe
+oj,oj,Anishinaabemowin
+pap,en,Papiamento
+pl,en,Polish
+pot,en,Potawatomi
+pt,en,Portuguese
+ro,en,Romanian
+ru,en,Russian
+shs,en,Shuswap (Secwepemctsín)
+shs,shs,Secwepemctsín
+sk,en,Slovak
+sl,en,Slovenian
+slh,en,Sliammon
+sq,en,Albanian
+srn,en,Sranan Tongo
+st,en,Southern Sotho
+sv,en,Swedish
+ta,en,Tamil
+th,en,Thai
+tl,en,Tagalog
+tpi,en,Tok Pisin
+tsm,en,Tsimshian
+uk,en,Ukrainian
+ur,en,Urdu
+vi,en,Vietnamese
+wam,en,Wampanoag
+wam,wam,Wôpanâak
+zh-Hans,en,Simplified Chinese
+zh-Hant,en,Traditional Chinese

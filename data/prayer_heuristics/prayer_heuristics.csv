@@ -1,1 +1,34 @@
 id,phelps_code,prayer_name,language_pattern,text_pattern,pattern_type,confidence_level,notes,created_date,validated,match_count
+1,BH11209,Short Obligatory Prayer,fj,##Short Obligatory Prayer,contains,high,Fijian prayer with English header,2025-07-06 20:14:27,1,1
+2,BH11209,Short Obligatory Prayer,ht,RESITE PRIYÈ SA A CHAK JOU A MIDI,contains,high,Haitian Creole: Recite this prayer every day at noon,2025-07-06 20:14:27,1,1
+3,BH11209,Short Obligatory Prayer,en,"I bear witness, O my God, that Thou hast created me",contains,high,English canonical text,2025-07-06 20:14:27,1,1
+4,BH03447,Medium Obligatory Prayer,fj,##Medium Obligatory Prayer,contains,high,Fijian prayer with English header,2025-07-06 20:14:27,1,1
+5,BH03447,Medium Obligatory Prayer,en,#Medium Obligatory Prayer,contains,high,English canonical text,2025-07-06 20:14:27,1,1
+6,BH00987,Long Obligatory Prayer,fj,##Long Obligatory Prayer,contains,high,Fijian prayer with English header,2025-07-06 20:14:27,1,1
+7,BH00987,Long Obligatory Prayer,en,#Long Obligatory Prayer,contains,high,English canonical text,2025-07-06 20:14:27,1,1
+8,NULL,Naw-Rúz (Bahá'í New Year),fj,##'NAW-RÚZ',contains,high,Fijian New Year prayer,2025-07-06 20:14:27,1,1
+9,NULL,Intercalary Days,fj,INTERCALARY DAYS,contains,high,Fijian Intercalary Days prayer,2025-07-06 20:14:27,1,1
+10,NULL,Visitation Prayer for 'Abdu'l-Bahá,ht,Priyè Vizitasyon pou 'Abdu'l-Bahá,contains,medium,Haitian Creole visitation prayer,2025-07-06 20:14:27,0,0
+11,BB00623,Is there any Remover of Difficulties,multi,Is there any remover of difficulties,contains,high,The Báb - classic difficulty prayer,2025-07-06 20:14:55,0,0
+12,BB00623,Is there any Remover of Difficulties,meu,Tamon a mun saan di yaalaxaaf,contains,medium,Motu language version,2025-07-06 20:14:55,0,0
+13,NULL,Prayer for Children,mi,MŌ TE HUNGA TAMARIKI,contains,medium,Māori: For the children,2025-07-06 20:14:55,0,0
+14,NULL,Prayer for Travel,mi,MŌ TE ARATAKI HAERENGA,contains,medium,Māori: For guidance in travel,2025-07-06 20:14:55,0,0
+15,NULL,Prayer for Healing,mi,MŌ TE WHAKAORA I TE TINANA I TE WAIRUA,contains,medium,Māori: For healing body and spirit,2025-07-06 20:14:55,0,0
+16,NULL,Prayer for Midnight,mi,MŌ WAENGANUI PŌ,contains,medium,Māori: For midnight/evening,2025-07-06 20:14:55,0,0
+17,NULL,First Day of Fast,ht,Premye Jou Jèn nan,contains,medium,Haitian Creole: First day of fasting,2025-07-06 20:14:55,0,0
+18,BH03470,"O God, guide me",en,"O God, guide me, protect me, make of me a shining lamp",contains,high,English canonical text,2025-07-06 22:05:36,1,1
+19,BH03470,"O God, guide me",cy,"O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau",contains,high,Welsh translation,2025-07-06 22:05:36,1,1
+20,BH03470,"O God, guide me",hai,O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm,contains,high,Haida translation,2025-07-06 22:05:36,1,1
+21,BH03470,"O God, guide me",pap,"O Dios, guiami, protehami, iluminá e lampi",contains,high,Papiamento translation,2025-07-06 22:05:36,1,1
+22,BH03470,"O God, guide me",shs,Tqeltk Kutseimentsme,contains,high,Shuswap translation,2025-07-06 22:05:36,1,1
+23,BH03470,"O God, guide me",lkt,"Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo",contains,high,Lakota translation,2025-07-06 22:05:36,1,1
+24,BH03470,"O God, guide me",ik,"God, aullatiŋŋa, qaunagiŋŋa, suaŋasiḷaaġuŋ",contains,high,Inuktitut translation,2025-07-06 22:05:36,1,1
+25,BH11205,Blessed is the Spot,moh,Blessed is the spot,contains,high,Mohawk with English header,2025-07-06 22:06:11,1,2
+26,BH11205,Blessed is the Spot,oj,Blessed is the spot,contains,high,Ojibwe with English header,2025-07-06 22:06:11,1,2
+27,BH11205,Blessed is the Spot,chr,Blessed is the spot,contains,high,Cherokee with English header,2025-07-06 22:06:11,1,1
+28,BH11205,Blessed is the Spot,lut,Blessed is the spot,contains,high,Lushootseed with English header,2025-07-06 22:06:11,1,1
+29,BH11205,Blessed is the Spot,pap,Blessed is the spot,contains,high,Papiamento with English header,2025-07-06 22:06:11,1,1
+30,BH11205,Blessed is the Spot,bla,Blessed is the spot,contains,high,Blackfoot with English header,2025-07-06 22:06:11,1,1
+31,BH11205,Blessed is the Spot,hur,Blessed is the spot,contains,high,Halkomelem with English header,2025-07-06 22:06:11,1,1
+32,BH11205,Blessed is the Spot,nv,Blessed is the spot,contains,high,Navajo with English header,2025-07-06 22:06:11,1,1
+33,BH11205,Blessed is the Spot,meu,Blessed is the spot,contains,high,Motu with English header,2025-07-06 22:06:11,1,1
