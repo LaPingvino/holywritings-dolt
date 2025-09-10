@@ -14,5 +14,5 @@
     }
   ],
   "schema": "CREATE TABLE `prayer_match_candidates` (\n  `id` int NOT NULL,\n  `version_id` varchar(255),\n  `proposed_name` varchar(255),\n  `proposed_phelps` varchar(16),\n  `language` varchar(16),\n  `text_length` int,\n  `reference_length` int,\n  `length_ratio` decimal(5,2),\n  `confidence_score` decimal(5,2),\n  `validation_status` enum('pending','approved','rejected'),\n  `validation_notes` text,\n  `created_date` timestamp,\n  PRIMARY KEY (`id`)\n);",
-  "created_at": "2025-09-10T03:43:44.990544155+01:00"
+  "created_at": "2025-09-10T05:08:01.185875301+01:00"
 }

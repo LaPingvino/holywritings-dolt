@@ -14,5 +14,5 @@
     }
   ],
   "schema": "CREATE TABLE `prayer_heuristics` (\n  `id` int NOT NULL,\n  `phelps_code` varchar(16),\n  `prayer_name` varchar(255),\n  `language_pattern` varchar(50),\n  `text_pattern` text,\n  `pattern_type` enum('exact_match','regex','contains','starts_with','header_extract'),\n  `confidence_level` enum('high','medium','low'),\n  `notes` text,\n  `created_date` timestamp,\n  `validated` tinyint(1),\n  `match_count` int,\n  PRIMARY KEY (`id`)\n);",
-  "created_at": "2025-09-10T03:43:44.989376736+01:00"
+  "created_at": "2025-09-10T05:08:01.184394734+01:00"
 }

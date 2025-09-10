@@ -14,5 +14,5 @@
     }
   ],
   "schema": "CREATE TABLE `languages` (\n  `langcode` varchar(16) NOT NULL,\n  `inlang` varchar(16) NOT NULL,\n  `name` varchar(255),\n  PRIMARY KEY (`langcode`, `inlang`)\n);",
-  "created_at": "2025-09-10T03:43:44.987260867+01:00"
+  "created_at": "2025-09-10T05:08:01.180326293+01:00"
 }
