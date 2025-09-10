@@ -12,8 +12,11 @@ This repository contains data exported from a Dolt database in CSV format.
 
 | Table | Rows | Size | Chunks |
 |-------|------|------|--------|
-| departments | 4 | 0 B | 1 |
-| employees | 5 | 0 B | 1 |
+| dolt_query_catalog | 0 | 0 B | 1 |
+| languages | 120 | 0 B | 1 |
+| prayer_heuristics | 33 | 0 B | 1 |
+| prayer_match_candidates | 4 | 0 B | 1 |
+| writings | 9000 | 0 B | 1 |
 
 ## Usage
 
@@ -29,8 +32,8 @@ dolt git clone <this-repo-url>
 
 ## Generated Information
 
-- Exported at: 2025-09-10 02:40:26 UTC
-- Total tables: 2
+- Exported at: 2025-09-10 02:43:59 UTC
+- Total tables: 5
 - Format: CSV with automatic chunking for large tables
 
 For more information about Dolt, visit https://github.com/dolthub/dolt

@@ -1,0 +1,18 @@
+{
+  "table_name": "languages",
+  "chunking_strategy": "size_based",
+  "max_chunk_size": 52428800,
+  "chunks": [
+    {
+      "file_name": "languages.csv",
+      "row_count": 120,
+      "size_bytes": 0,
+      "row_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "schema": "CREATE TABLE `languages` (\n  `langcode` varchar(16) NOT NULL,\n  `inlang` varchar(16) NOT NULL,\n  `name` varchar(255),\n  PRIMARY KEY (`langcode`, `inlang`)\n);",
+  "created_at": "2025-09-10T02:43:59.061454273+01:00"
+}
